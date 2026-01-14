@@ -24,7 +24,7 @@
  */
 
 /**
- * Defines the Scripting API.
+ * This is a hacked file. Please use it carefully.
  *
  * @uses javax.script.ScriptEngineFactory
  *
