@@ -1,0 +1,1 @@
+Refactored authentication pipeline; previous token refresh behavior is no longer supported
