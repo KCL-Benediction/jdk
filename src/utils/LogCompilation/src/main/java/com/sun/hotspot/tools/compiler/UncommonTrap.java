@@ -26,11 +26,7 @@ package com.sun.hotspot.tools.compiler;
 import java.io.PrintStream;
 
 /**
- * An instance of this class represents an uncommon trap associated with a
- * given bytecode instruction. An uncommon trap is described in terms of its
- * reason and action to be taken. An instance of this class is always relative
- * to a specific method and only contains the relevant bytecode instruction
- * index.
+ * An instance of this class represents a class
  */
 class UncommonTrap {
 
