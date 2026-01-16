@@ -1,1 +1,4 @@
 Refactored authentication pipeline; previous token refresh behavior is no longer supported
+
+
+This is new version of example.txt. Since it will support more model.
